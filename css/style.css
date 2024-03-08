@@ -11,4 +11,15 @@ header {
 ul {
     display: flex;
     justify-content: left;
+    text-decoration: none;
+}
+
+li {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    background-origin: padding-box;
+    border: 12px;
+    list-style: none;
+
 }
