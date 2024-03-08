@@ -17,7 +17,7 @@ ul {
 li {
     text-decoration: none;
     margin: 4px;
-    padding: 0;
+    padding: 16;
     background-origin: padding-box;
     border: 12px;
     list-style: none;
