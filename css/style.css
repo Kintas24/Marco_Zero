@@ -5,23 +5,22 @@
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
 
 ul {
     display: flex;
-    justify-content: left;
-    text-decoration: none;
+    justify-content: flex-end;
+    
 }
 
 li {
-    text-decoration: none;
-    margin: 4px;
+    margin: 8px;
     padding: 16;
-    background-origin: padding-box;
-    border: 12px;
     list-style: none;
-
 }
 
 
